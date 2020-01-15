@@ -1,0 +1,16 @@
+
+/* custom css */
+
+.sidebar {
+    background-color: #000099;
+    color: white;
+}
+
+.sidebar a {
+    color: white;
+}
+
+.sidebar .widget-title {
+    color: white;
+}
+

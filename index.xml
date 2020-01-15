@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rejoin EU</title>
+    <link>http://ukjoineu.org/</link>
+    <description>Recent content on Rejoin EU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 14 Jan 2020 15:43:55 +0000</lastBuildDate>
+    
+	<atom:link href="http://ukjoineu.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://ukjoineu.org/about/</link>
+      <pubDate>Sat, 03 Mar 2018 13:50:49 +0100</pubDate>
+      
+      <guid>http://ukjoineu.org/about/</guid>
+      <description> Waves are the practice of the water. Shunryu Suzuki
+ </description>
+    </item>
+    
+    <item>
+      <title>My 3rd Post</title>
+      <link>http://ukjoineu.org/posts/my-3rd-post/</link>
+      <pubDate>Tue, 14 Jan 2020 15:43:55 +0000</pubDate>
+      
+      <guid>http://ukjoineu.org/posts/my-3rd-post/</guid>
+      <description>Nothing to see here</description>
+    </item>
+    
+    <item>
+      <title>More experiments</title>
+      <link>http://ukjoineu.org/posts/my-2nd-post/</link>
+      <pubDate>Fri, 10 Jan 2020 15:43:55 +0000</pubDate>
+      
+      <guid>http://ukjoineu.org/posts/my-2nd-post/</guid>
+      <description>Here is an an fine looking flag &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://ukjoineu.org/economy/my-first-post/</link>
+      <pubDate>Fri, 10 Jan 2020 15:43:55 +0000</pubDate>
+      
+      <guid>http://ukjoineu.org/economy/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://ukjoineu.org/nhs/my-first-post/</link>
+      <pubDate>Fri, 10 Jan 2020 15:43:55 +0000</pubDate>
+      
+      <guid>http://ukjoineu.org/nhs/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://ukjoineu.org/posts/my-first-post/</link>
+      <pubDate>Fri, 10 Jan 2020 15:43:55 +0000</pubDate>
+      
+      <guid>http://ukjoineu.org/posts/my-first-post/</guid>
+      <description>Example of using twitter link &amp;hellip;
+Public spending as % of GDP
+FRA 56.0
+FIN 53.1
+BEL 52.4
+DEN 51.4
+SWE 49.9 NOR 48.7
+ITA 48.6
+GRE 46.7
+EU 45.6
+POR 44.0
+GER 43.5
+NETH 42.2
+SPA 41.3
+UK 39.9
+&amp;mdash; will thorpe (@withorpe) January 10, 2020  </description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>http://ukjoineu.org/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ukjoineu.org/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
