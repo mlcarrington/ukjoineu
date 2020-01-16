@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benefits on Join EU</title>
+    <link>http://ukjoineu.org/tags/benefits/</link>
+    <description>Recent content in Benefits on Join EU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 16 Jan 2020 15:27:42 +0000</lastBuildDate>
+    
+	<atom:link href="http://ukjoineu.org/tags/benefits/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Annotated EU Flag</title>
+      <link>http://ukjoineu.org/posts/eu-flag-annotated/</link>
+      <pubDate>Thu, 16 Jan 2020 15:27:42 +0000</pubDate>
+      
+      <guid>http://ukjoineu.org/posts/eu-flag-annotated/</guid>
+      <description>Here is a rather cheerful way of showing the EU flag and encompassing all the benefits of membership</description>
+    </item>
+    
+  </channel>
+</rss>

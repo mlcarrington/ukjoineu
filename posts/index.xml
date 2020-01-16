@@ -1,55 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Rejoin EU</title>
+    <title>Posts on Join EU</title>
     <link>http://ukjoineu.org/posts/</link>
-    <description>Recent content in Posts on Rejoin EU</description>
+    <description>Recent content in Posts on Join EU</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 14 Jan 2020 15:43:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2020 15:34:58 +0000</lastBuildDate>
     
 	<atom:link href="http://ukjoineu.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My 3rd Post</title>
-      <link>http://ukjoineu.org/posts/my-3rd-post/</link>
-      <pubDate>Tue, 14 Jan 2020 15:43:55 +0000</pubDate>
+      <title>EU Citizen Benefits</title>
+      <link>http://ukjoineu.org/posts/eu-citizen-benefits/</link>
+      <pubDate>Thu, 16 Jan 2020 15:34:58 +0000</pubDate>
       
-      <guid>http://ukjoineu.org/posts/my-3rd-post/</guid>
-      <description>Nothing to see here</description>
+      <guid>http://ukjoineu.org/posts/eu-citizen-benefits/</guid>
+      <description>Peace &amp;amp; Security Central and western Europe has never known so long a period without war. The EU is the most successful peace project in human history and has been awarded the Nobel Peace Prize. Europeans are closely linked economically and culturally, and through the democratic values we share.
+Single Market The single market is the world&#39;s most highly developed and open marketplace. It is based on the EU’s 4 key freedoms, which enable you and other citizens to:</description>
     </item>
     
     <item>
-      <title>More experiments</title>
-      <link>http://ukjoineu.org/posts/my-2nd-post/</link>
-      <pubDate>Fri, 10 Jan 2020 15:43:55 +0000</pubDate>
+      <title>Annotated EU Flag</title>
+      <link>http://ukjoineu.org/posts/eu-flag-annotated/</link>
+      <pubDate>Thu, 16 Jan 2020 15:27:42 +0000</pubDate>
       
-      <guid>http://ukjoineu.org/posts/my-2nd-post/</guid>
-      <description>Here is an an fine looking flag &amp;hellip;</description>
+      <guid>http://ukjoineu.org/posts/eu-flag-annotated/</guid>
+      <description>Here is a rather cheerful way of showing the EU flag and encompassing all the benefits of membership</description>
     </item>
     
     <item>
-      <title>My First Post</title>
-      <link>http://ukjoineu.org/posts/my-first-post/</link>
-      <pubDate>Fri, 10 Jan 2020 15:43:55 +0000</pubDate>
+      <title>Reasons to be pro EU</title>
+      <link>http://ukjoineu.org/posts/reasons-pro-eu/</link>
+      <pubDate>Thu, 16 Jan 2020 15:23:15 +0000</pubDate>
       
-      <guid>http://ukjoineu.org/posts/my-first-post/</guid>
-      <description>Example of using twitter link &amp;hellip;
-Public spending as % of GDP
-FRA 56.0
-FIN 53.1
-BEL 52.4
-DEN 51.4
-SWE 49.9 NOR 48.7
-ITA 48.6
-GRE 46.7
-EU 45.6
-POR 44.0
-GER 43.5
-NETH 42.2
-SPA 41.3
-UK 39.9
-&amp;mdash; will thorpe (@withorpe) January 10, 2020  </description>
+      <guid>http://ukjoineu.org/posts/reasons-pro-eu/</guid>
+      <description>Here is a good list of reasons to be Pro EU &amp;hellip;
+I am not Pro EU as default.
+I&amp;#39;m...
+Pro Peace
+Pro Cooperation
+Pro Good Friday Agreement
+Pro Immigration
+Pro Science
+Pro Security
+Pro Education
+Pro Business
+Pro Trade
+Pro Human Rights
+Pro Workers Rights
+Pro NHS
+Pro Multi-Cultural
+All these thing mean I am automatically Pro EU.
+&amp;mdash; 🔶️Chantelle Seddon (@ChantelleSeddon) January 10, 2020  </description>
     </item>
     
   </channel>

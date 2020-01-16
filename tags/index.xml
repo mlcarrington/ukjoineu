@@ -1,66 +1,93 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Rejoin EU</title>
+    <title>Tags on Join EU</title>
     <link>http://ukjoineu.org/tags/</link>
-    <description>Recent content in Tags on Rejoin EU</description>
+    <description>Recent content in Tags on Join EU</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 10 Jan 2020 15:43:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2020 15:34:58 +0000</lastBuildDate>
     
 	<atom:link href="http://ukjoineu.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Azure</title>
-      <link>http://ukjoineu.org/tags/azure/</link>
-      <pubDate>Fri, 10 Jan 2020 15:43:55 +0000</pubDate>
+      <title>Consumer Benefits</title>
+      <link>http://ukjoineu.org/tags/consumer-benefits/</link>
+      <pubDate>Thu, 16 Jan 2020 15:34:58 +0000</pubDate>
       
-      <guid>http://ukjoineu.org/tags/azure/</guid>
+      <guid>http://ukjoineu.org/tags/consumer-benefits/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Azure Functions</title>
-      <link>http://ukjoineu.org/tags/azure-functions/</link>
-      <pubDate>Fri, 10 Jan 2020 15:43:55 +0000</pubDate>
+      <title>Global Power</title>
+      <link>http://ukjoineu.org/tags/global-power/</link>
+      <pubDate>Thu, 16 Jan 2020 15:34:58 +0000</pubDate>
       
-      <guid>http://ukjoineu.org/tags/azure-functions/</guid>
+      <guid>http://ukjoineu.org/tags/global-power/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cloud Native</title>
-      <link>http://ukjoineu.org/tags/cloud-native/</link>
-      <pubDate>Fri, 10 Jan 2020 15:43:55 +0000</pubDate>
+      <title>Human Rights</title>
+      <link>http://ukjoineu.org/tags/human-rights/</link>
+      <pubDate>Thu, 16 Jan 2020 15:34:58 +0000</pubDate>
       
-      <guid>http://ukjoineu.org/tags/cloud-native/</guid>
+      <guid>http://ukjoineu.org/tags/human-rights/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Logic Apps</title>
-      <link>http://ukjoineu.org/tags/logic-apps/</link>
-      <pubDate>Fri, 10 Jan 2020 15:43:55 +0000</pubDate>
+      <title>Peace</title>
+      <link>http://ukjoineu.org/tags/peace/</link>
+      <pubDate>Thu, 16 Jan 2020 15:34:58 +0000</pubDate>
       
-      <guid>http://ukjoineu.org/tags/logic-apps/</guid>
+      <guid>http://ukjoineu.org/tags/peace/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Presentation</title>
-      <link>http://ukjoineu.org/tags/presentation/</link>
-      <pubDate>Fri, 10 Jan 2020 15:43:55 +0000</pubDate>
+      <title>Single Market</title>
+      <link>http://ukjoineu.org/tags/single-market/</link>
+      <pubDate>Thu, 16 Jan 2020 15:34:58 +0000</pubDate>
       
-      <guid>http://ukjoineu.org/tags/presentation/</guid>
+      <guid>http://ukjoineu.org/tags/single-market/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Serverless</title>
-      <link>http://ukjoineu.org/tags/serverless/</link>
-      <pubDate>Fri, 10 Jan 2020 15:43:55 +0000</pubDate>
+      <title>Benefits</title>
+      <link>http://ukjoineu.org/tags/benefits/</link>
+      <pubDate>Thu, 16 Jan 2020 15:27:42 +0000</pubDate>
       
-      <guid>http://ukjoineu.org/tags/serverless/</guid>
+      <guid>http://ukjoineu.org/tags/benefits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EU Flag</title>
+      <link>http://ukjoineu.org/tags/eu-flag/</link>
+      <pubDate>Thu, 16 Jan 2020 15:27:42 +0000</pubDate>
+      
+      <guid>http://ukjoineu.org/tags/eu-flag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EU Court</title>
+      <link>http://ukjoineu.org/tags/eu-court/</link>
+      <pubDate>Thu, 16 Jan 2020 14:56:02 +0000</pubDate>
+      
+      <guid>http://ukjoineu.org/tags/eu-court/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EU Law</title>
+      <link>http://ukjoineu.org/tags/eu-law/</link>
+      <pubDate>Thu, 16 Jan 2020 14:56:02 +0000</pubDate>
+      
+      <guid>http://ukjoineu.org/tags/eu-law/</guid>
       <description></description>
     </item>
     
