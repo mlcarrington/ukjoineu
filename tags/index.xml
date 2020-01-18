@@ -5,10 +5,28 @@
     <link>http://ukjoineu.org/tags/</link>
     <description>Recent content in Tags on Join EU</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 16 Jan 2020 15:34:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2020 11:34:58 +0000</lastBuildDate>
     
 	<atom:link href="http://ukjoineu.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Single Market</title>
+      <link>http://ukjoineu.org/tags/single-market/</link>
+      <pubDate>Sat, 18 Jan 2020 11:34:58 +0000</pubDate>
+      
+      <guid>http://ukjoineu.org/tags/single-market/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trade</title>
+      <link>http://ukjoineu.org/tags/trade/</link>
+      <pubDate>Sat, 18 Jan 2020 11:34:58 +0000</pubDate>
+      
+      <guid>http://ukjoineu.org/tags/trade/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Consumer Benefits</title>
@@ -43,15 +61,6 @@
       <pubDate>Thu, 16 Jan 2020 15:34:58 +0000</pubDate>
       
       <guid>http://ukjoineu.org/tags/peace/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Single Market</title>
-      <link>http://ukjoineu.org/tags/single-market/</link>
-      <pubDate>Thu, 16 Jan 2020 15:34:58 +0000</pubDate>
-      
-      <guid>http://ukjoineu.org/tags/single-market/</guid>
       <description></description>
     </item>
     
