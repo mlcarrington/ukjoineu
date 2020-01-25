@@ -5,10 +5,20 @@
     <link>http://ukjoineu.org/posts/</link>
     <description>Recent content in Posts on Join EU</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 22 Jan 2020 10:31:56 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2020 10:39:55 +0100</lastBuildDate>
     
 	<atom:link href="http://ukjoineu.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Eurobarometer</title>
+      <link>http://ukjoineu.org/posts/eurobarometer/</link>
+      <pubDate>Sat, 25 Jan 2020 10:39:55 +0100</pubDate>
+      
+      <guid>http://ukjoineu.org/posts/eurobarometer/</guid>
+      <description>Human rights, freedom of speech, gender equality top lists of EU fundamental values 52% consider climate change to be the most current pressing environmental issue 59% are in favour of their country being a member of the EU  This Eurobarometer survey, published in December, asked citizens, among several topics, which political issue the Parliament should deal with as a matter of priority.
+Parliament’s autumn Eurobarometer survey traditionally asks citizens which political issue the European Parliament should deal with as a matter of priority.</description>
+    </item>
     
     <item>
       <title>European Pillar of Social Rights</title>
