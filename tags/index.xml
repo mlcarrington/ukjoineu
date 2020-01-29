@@ -5,10 +5,19 @@
     <link>https://ukjoineu.org/tags/</link>
     <description>Recent content in Tags on Join EU</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 29 Jan 2020 17:19:16 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 00:14:34 +0100</lastBuildDate>
     
 	<atom:link href="https://ukjoineu.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Democracy</title>
+      <link>https://ukjoineu.org/tags/democracy/</link>
+      <pubDate>Thu, 30 Jan 2020 00:14:34 +0100</pubDate>
+      
+      <guid>https://ukjoineu.org/tags/democracy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Values</title>
@@ -25,15 +34,6 @@
       <pubDate>Tue, 28 Jan 2020 16:08:53 +0100</pubDate>
       
       <guid>https://ukjoineu.org/tags/media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Democracy</title>
-      <link>https://ukjoineu.org/tags/democracy/</link>
-      <pubDate>Mon, 27 Jan 2020 17:37:49 +0100</pubDate>
-      
-      <guid>https://ukjoineu.org/tags/democracy/</guid>
       <description></description>
     </item>
     
@@ -88,15 +88,6 @@
       <pubDate>Mon, 20 Jan 2020 17:26:41 +0100</pubDate>
       
       <guid>https://ukjoineu.org/tags/climate-change/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>European Regional Development Fund</title>
-      <link>https://ukjoineu.org/tags/european-regional-development-fund/</link>
-      <pubDate>Mon, 20 Jan 2020 17:26:41 +0100</pubDate>
-      
-      <guid>https://ukjoineu.org/tags/european-regional-development-fund/</guid>
       <description></description>
     </item>
     
