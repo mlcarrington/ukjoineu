@@ -5,10 +5,19 @@
     <link>https://ukjoineu.org/tags/</link>
     <description>Recent content in Tags on Join EU</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 30 Jan 2020 00:14:34 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2020 18:13:32 +0100</lastBuildDate>
     
 	<atom:link href="https://ukjoineu.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Climate Change</title>
+      <link>https://ukjoineu.org/tags/climate-change/</link>
+      <pubDate>Mon, 03 Feb 2020 18:13:32 +0100</pubDate>
+      
+      <guid>https://ukjoineu.org/tags/climate-change/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Democracy</title>
@@ -79,15 +88,6 @@
       <pubDate>Wed, 22 Jan 2020 10:31:56 +0100</pubDate>
       
       <guid>https://ukjoineu.org/tags/social-rights/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Climate Change</title>
-      <link>https://ukjoineu.org/tags/climate-change/</link>
-      <pubDate>Mon, 20 Jan 2020 17:26:41 +0100</pubDate>
-      
-      <guid>https://ukjoineu.org/tags/climate-change/</guid>
       <description></description>
     </item>
     
